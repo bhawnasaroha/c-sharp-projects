@@ -1,0 +1,7 @@
+D:\project\c#\Telephone\Telephone\Telephone\bin\Debug\Telephone.exe
+D:\project\c#\Telephone\Telephone\Telephone\bin\Debug\Telephone.pdb
+D:\project\c#\Telephone\Telephone\Telephone\obj\x86\Debug\Telephone.Properties.Resources.resources
+D:\project\c#\Telephone\Telephone\Telephone\obj\x86\Debug\Telephone.csproj.GenerateResource.Cache
+D:\project\c#\Telephone\Telephone\Telephone\obj\x86\Debug\Telephone.exe
+D:\project\c#\Telephone\Telephone\Telephone\obj\x86\Debug\Telephone.pdb
+D:\project\c#\Telephone\Telephone\Telephone\obj\x86\Debug\Telephone.Phone.resources
